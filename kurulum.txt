@@ -1,0 +1,20 @@
+Kurulum adýmlarý
+
+1.Ýlkönce kurulum dosyalarýndan set/ayarlar.php den veritabaný bilgilerinizi girin.
+
+2.Sonra siteye girin otamatik olarak kurulum sayfasýna yönlendirileceksiniz.
+Oradan temel bilgilerinizi girin.
+
+3.Devama týklayýn ve yönetici bilgilerini girin.
+
+4.Sonra hoþgeldiniz ekraný gelmiþse kurulum baþarýyla bitirildi demek.. Þimdi sitenize girebilirsiniz.
+
+5.Admin paneline www.siteniz.com/panel diyerek ulaþabilirsiniz.
+Kullanýcý adý ve þifreyi kurulum yaparken siz giriyorsunuz zaten..
+
+Not : Telif haklarý eamm.esy.es adlý sitenin sahibi olan Ahmet kara aittir.Back-end devoloping panel tamamen Ahmet kar tarafýmdan yapýlmýþtýr.
+Lütfen sitenizde kullanýrken copyrightte telif hakkýný silmeyiniz..
+
+
+
+
